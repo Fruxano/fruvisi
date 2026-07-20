@@ -1,0 +1,3 @@
+name: fruvisi
+version: 1.3.9
+description: "FruVisi - visual organization dashboard for Hermes agents: org chart with areas, numbered groups, functional presets, per-agent OpenRouter fallback and kanban integration. Purely additive, native profiles stay the single source of truth."

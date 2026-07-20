@@ -1,0 +1,14 @@
+{
+  "name": "fruvisi",
+  "label": "FruVisi",
+  "description": "Visual organization dashboard: structure agents, switch team lineups and distribute tasks",
+  "icon": "Activity",
+  "version": "1.3.9",
+  "tab": {
+    "path": "/fruvisi",
+    "position": "after:kanban"
+  },
+  "entry": "dist/index.js",
+  "css": "dist/style.css",
+  "api": "plugin_api.py"
+}

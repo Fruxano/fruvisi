@@ -1,0 +1,19 @@
+{
+  "name": "hermes-org-dashboard",
+  "version": "1.2.3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node esbuild.config.mjs",
+    "watch": "node esbuild.config.mjs --watch"
+  },
+  "dependencies": {
+    "@dagrejs/dagre": "^1.1.4",
+    "@xyflow/react": "^12.8.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.0",
+    "esbuild": "^0.25.5",
+    "typescript": "^5.8.0"
+  }
+}

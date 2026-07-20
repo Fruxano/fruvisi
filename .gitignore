@@ -1,0 +1,6 @@
+node_modules/
+docker/hermes-data/
+*.log
+.env
+release/build/
+__pycache__/
